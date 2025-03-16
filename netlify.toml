@@ -1,0 +1,2 @@
+[build]
+  functions = "functions"  # এখানে আপনি আপনার serverless function ফাইল রাখবেন
